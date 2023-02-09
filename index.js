@@ -26,6 +26,7 @@ const allModules = [
       courseTitle: "English for academic purposes",
       prerequisites: "English in practice, or Language in apractice B, or Module 3, or Exemption",
       year: "first Year",
+      departement: "mining",
     },
 
     {
@@ -35,6 +36,7 @@ const allModules = [
       courseTitle: "Computing for Engineers 114",
       prerequisites: "none",
       year: "first Year",
+      departement: "mining",
     },
 
     {
@@ -44,6 +46,7 @@ const allModules = [
       courseTitle: "Introduction to Engineering Drawing 115",
       prerequisites: "none",
       year: "first Year",
+      departement: "mining",
     },
 
     {
@@ -53,6 +56,7 @@ const allModules = [
       courseTitle: "Engineering Mathematics 115",
       prerequisites: "none",
       year: "first Year",
+      departement: "mining",
     },
     
     {
@@ -62,6 +66,7 @@ const allModules = [
       courseTitle: "Engineering Mechanics 114",
       prerequisites: "none",
       year: "first Year",
+      departement: "mining",
     },
 
     {
@@ -71,6 +76,7 @@ const allModules = [
       courseTitle: "Engineering Physics 114",
       prerequisites: "none",
       year: "first Year",
+      departement: "mining",
     },
 
 ];
