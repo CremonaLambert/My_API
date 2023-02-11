@@ -441,8 +441,85 @@ const allModules = [
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
+    {
+      id: 45,
+      semester: "Semester 8",
+      courseCode: "MPT821S",
+      courseTitle: "Mining Research Project 420",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
 
+    {
+      id: 46,
+      semester: "Semester 8",
+      courseCode: "MDP821S",
+      courseTitle: "Mining Design Project 420",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
 
+    {
+      id: 47,
+      semester: "Semester 8",
+      courseCode: "SRM820S",
+      courseTitle: "Safety and Risk Management 424",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 45,
+      semester: "Semester 8",
+      courseCode: "WME821S",
+      courseTitle: "Work Integrated Learning 420",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 45,
+      semester: "Semester 8",
+      courseCode: "SSM821S",
+      courseTitle: "Small Scale Mining 423",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 45,
+      semester: "Semester 8",
+      courseCode: "FTM821S",
+      courseTitle: "Future Mining 423",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 45,
+      semester: "Semester 8",
+      courseCode: "CLM821S",
+      courseTitle: "Coal Mining 423",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 45,
+      semester: "Semester 8",
+      courseCode: "MRM821S",
+      courseTitle: "Marine Mining 423",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
 
 
 ];
