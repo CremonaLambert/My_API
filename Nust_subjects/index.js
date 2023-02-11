@@ -321,6 +321,66 @@ const allModules = [
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
+    {
+      id: 33,
+      semester: "Semester 6",
+      courseCode: "MVT721S",
+      courseTitle: "Mine Ventilation 324",
+      prerequisites: "Fluid Mechanics 214; Thermodynamics 225",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 34,
+      semester: "Semester 6",
+      courseCode: "MHD721S",
+      courseTitle: "Materials Handling 324",
+      prerequisites: "Fluid Mechanics 214; Thermodynamics 225",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 35,
+      semester: "Semester 6",
+      courseCode: "REE720S",
+      courseTitle: "Rock Engineering 324",
+      prerequisites: "Rock Mechanics 314",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 36,
+      semester: "Semester 6",
+      courseCode: "SDY611S",
+      courseTitle: "Sustainability and Development",
+      prerequisites: "None",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 37,
+      semester: "Semester 6",
+      courseCode: "DBS721S",
+      courseTitle: "Drilling and Blasting 324",
+      prerequisites: "Introduction to Mining and Metallurgy 214",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 38,
+      semester: "Semester 6",
+      courseCode: "MLL721S",
+      courseTitle: "Mine Laws and Licences 323",
+      prerequisites: "None",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
 
 
 
