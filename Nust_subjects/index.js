@@ -202,14 +202,67 @@ const allModules = [
     {
       id: 21,
       semester: "Semester 4",
-      courseCode: "",
-      courseTitle: "",
+      courseCode: "NMS620S",
+      courseTitle: "Numerical Methods 224",
+      prerequisites: "Engineering Mathematics 215",
+      year: "First Year",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 21,
+      semester: "Semester 4",
+      courseCode: "GMS620S",
+      courseTitle: "Geo Mechanics 224 ",
       prerequisites: "none",
       year: "First Year",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
-    
+    {
+      id: 21,
+      semester: "Semester 4",
+      courseCode: "SSS621S",
+      courseTitle: "Statistics 224",
+      prerequisites: "Engineering Mathematics 215",
+      year: "First Year",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 21,
+      semester: "Semester 4",
+      courseCode: "MGY621S",
+      courseTitle: "Mining Geology 224",
+      prerequisites: "Geology for Engineers 214",
+      year: "First Year",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 21,
+      semester: "Semester 4",
+      courseCode: "MSG621S",
+      courseTitle: "Mine Surveying 224",
+      prerequisites: "Engineering Surveying 214",
+      year: "First Year",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 21,
+      semester: "Semester 4",
+      courseCode: "TDN620S ",
+      courseTitle: "Thermodynamics 225",
+      prerequisites: "Engineering Mathematics 115",
+      year: "First Year",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+
+
+
+
 
 
 
