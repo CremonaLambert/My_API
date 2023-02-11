@@ -381,6 +381,66 @@ const allModules = [
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
+    {
+      id: 39,
+      semester: "Semester 7",
+      courseCode: "MRE810S",
+      courseTitle: "Mine and Resource Engineering Management 414",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 40,
+      semester: "Semester 7",
+      courseCode: "CMD811S",
+      courseTitle: "Computerised Mine Design 414",
+      prerequisites: "Underground Mining 315; Surface Mining 31",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 41,
+      semester: "Semester 7",
+      courseCode: "MPD811S",
+      courseTitle: "Mine Planning and Design 415",
+      prerequisites: "Underground Mining 315; Surface Mining 31",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 42,
+      semester: "Semester 7",
+      courseCode: "MEF810S",
+      courseTitle: "Mineral Economics and Financial Valuation 413",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 43,
+      semester: "Semester 7",
+      courseCode: "EVE810S",
+      courseTitle: "Environmental Engineering 414",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 44,
+      semester: "Semester 7",
+      courseCode: "RSS811S",
+      courseTitle: "Research Seminars 400",
+      prerequisites: "None",
+      year: "Year 4",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
 
 
 
