@@ -6,7 +6,7 @@ const allModules = [
       courseCode: "EAP511S",
       courseTitle: "English for academic purposes",
       prerequisites: "English in practice, or Language in apractice B, or Module 3, or Exemption",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -16,7 +16,7 @@ const allModules = [
       courseCode: "CEN510S",
       courseTitle: "Computing for Engineers 114",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -26,7 +26,7 @@ const allModules = [
       courseCode: "IED511S",
       courseTitle: "Introduction to Engineering Drawing 115",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -36,7 +36,7 @@ const allModules = [
       courseCode: "MTM511S",
       courseTitle: "Engineering Mathematics 115",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
     
@@ -46,7 +46,7 @@ const allModules = [
       courseCode: "AMC511S",
       courseTitle: "Engineering Mechanics 114",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -56,7 +56,7 @@ const allModules = [
       courseCode: "APH511S",
       courseTitle: "Engineering Physics 114",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -66,7 +66,7 @@ const allModules = [
       courseCode: "IIN521S ",
       courseTitle: "Introduction to Industry 4.0",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -76,7 +76,7 @@ const allModules = [
       courseCode: "ELC520S",
       courseTitle: "Electrical Circuits 124",
       prerequisites: "Engineering Physics 114, Engineering Mathematics 115",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -86,7 +86,7 @@ const allModules = [
       courseCode: "ACH521S",
       courseTitle: "Engineering Chemistry 123",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -96,7 +96,7 @@ const allModules = [
       courseCode: "MTM521S",
       courseTitle: "Engineering Mathematics 125",
       prerequisites: "Engineering Mathematics 115",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -106,7 +106,7 @@ const allModules = [
       courseCode: "MLS520S",
       courseTitle: "Materials Science 124",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -116,7 +116,7 @@ const allModules = [
       courseCode: "MOM521S",
       courseTitle: "Mechanics of Materials 124",
       prerequisites: "Engineering Mechanics 114",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -126,7 +126,7 @@ const allModules = [
       courseCode: "",
       courseTitle: "",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -136,7 +136,7 @@ const allModules = [
       courseCode: "WPR421S",
       courseTitle: "Workshop Practice 120",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 1",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -146,7 +146,7 @@ const allModules = [
       courseCode: "MTM611S",
       courseTitle: "Engineering Mathematics 215",
       prerequisites: "Engineering Mathematics 125",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -156,7 +156,7 @@ const allModules = [
       courseCode: "IMM610S",
       courseTitle: "Introduction to Mining and Metallurgy 214",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -166,7 +166,7 @@ const allModules = [
       courseCode: "GFE611S",
       courseTitle: "Geology for Engineers 214",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
     {
@@ -175,7 +175,7 @@ const allModules = [
       courseCode: "ENS611S",
       courseTitle: "Engineering Surveying 214 ",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -185,7 +185,7 @@ const allModules = [
       courseCode: "FMC610S",
       courseTitle: "Fluid Mechanics 214",
       prerequisites: "Engineering Mechanics 114",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -195,7 +195,7 @@ const allModules = [
       courseCode: "EMC611S",
       courseTitle: "Electrical Machines 214",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
@@ -205,62 +205,121 @@ const allModules = [
       courseCode: "NMS620S",
       courseTitle: "Numerical Methods 224",
       prerequisites: "Engineering Mathematics 215",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
     {
-      id: 21,
+      id: 22,
       semester: "Semester 4",
       courseCode: "GMS620S",
       courseTitle: "Geo Mechanics 224 ",
       prerequisites: "none",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
     {
-      id: 21,
+      id: 23,
       semester: "Semester 4",
       courseCode: "SSS621S",
       courseTitle: "Statistics 224",
       prerequisites: "Engineering Mathematics 215",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
     {
-      id: 21,
+      id: 24,
       semester: "Semester 4",
       courseCode: "MGY621S",
       courseTitle: "Mining Geology 224",
       prerequisites: "Geology for Engineers 214",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
     {
-      id: 21,
+      id: 25,
       semester: "Semester 4",
       courseCode: "MSG621S",
       courseTitle: "Mine Surveying 224",
       prerequisites: "Engineering Surveying 214",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
     {
-      id: 21,
+      id: 26,
       semester: "Semester 4",
       courseCode: "TDN620S ",
       courseTitle: "Thermodynamics 225",
       prerequisites: "Engineering Mathematics 115",
-      year: "First Year",
+      year: "Year 2",
       departement: "MINING AND PROCESS ENGINEERING",
     },
 
+    {
+      id: 27,
+      semester: "Semester 5",
+      courseCode: "ORC711S",
+      courseTitle: "Operations Research 313",
+      prerequisites: "Statistics 224",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
 
+    {
+      id: 28,
+      semester: "Semester 5",
+      courseCode: "RMC711S",
+      courseTitle: "Rock Mechanics 314",
+      prerequisites: "Soil Mechanics 224",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
 
+    
+
+    {
+      id: 29,
+      semester: "Semester 5",
+      courseCode: "UDM711S",
+      courseTitle: "Underground Mining 315",
+      prerequisites: "Introduction to Mining and Metallurgy 214",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 30,
+      semester: "Semester 5",
+      courseCode: "SUM710S",
+      courseTitle: "Surface Mining 315",
+      prerequisites: "Introduction to Mining and Metallurgy 214",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 31,
+      semester: "Semester 5",
+      courseCode: "GSS711S",
+      courseTitle: "Geo Statistics 314",
+      prerequisites: "Mining Geology 224; Statistics 224",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
+
+    {
+      id: 32,
+      semester: "Semester 5",
+      courseCode: "MPC711S",
+      courseTitle: "Mineral Separation Processes 314",
+      prerequisites: "Introduction to Mining and Metallurgy 214",
+      year: "Year 3",
+      departement: "MINING AND PROCESS ENGINEERING",
+    },
 
 
 
