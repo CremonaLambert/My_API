@@ -143,9 +143,9 @@ year2 = {
 
         module1:{
            id: 1,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "",
+           courseCode: "IMM610S",
+           courseTitle: "Introduction to Mining and Metallurgy 214",
+           prerequisites: "None",
            NQFlevel: 5,
            NQFcredits: 14,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -153,8 +153,8 @@ year2 = {
 
         module2:{
            id: 2,
-           courseCode: "",
-           courseTitle: "",
+           courseCode: "GFE611S",
+           courseTitle: "Geology for Engineers 214",
            prerequisites: "None",
            NQFlevel: 5,
            NQFcredits: 12,
@@ -163,8 +163,8 @@ year2 = {
 
         module3:{
            id: 3,
-           courseCode: "",
-           courseTitle: "",
+           courseCode: "ENS611S",
+           courseTitle: "Engineering Surveying 214",
            prerequisites: "None",
            NQFlevel: 5,
            NQFcredits: 15,
@@ -173,8 +173,8 @@ year2 = {
 
         module4:{
            id: 4,
-           courseCode: "",
-           courseTitle: "",
+           courseCode: "EMC611S",
+           courseTitle: "Electrical Machines 214",
            prerequisites: "None",
            NQFlevel: 5,
            NQFcredits: 15,
@@ -183,9 +183,9 @@ year2 = {
 
         module5:{
            id: 5,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "None",
+           courseCode: "NMS620S",
+           courseTitle: "Numerical Methods 224",
+           prerequisites: "Engineering Mathematics 215",
            NQFlevel: 5,
            NQFcredits: 12,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -193,8 +193,8 @@ year2 = {
 
         module6:{
            id: 6,
-           courseCode: "",
-           courseTitle: "",
+           courseCode: "GMS620S",
+           courseTitle: "Geo Mechanics 224",
            prerequisites: "None",
            NQFlevel: 5,
            NQFcredits: 12,
@@ -206,9 +206,9 @@ year2 = {
    semester2:{
        module1:{
            id: 1,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "None",
+           courseCode: "SSS621S",
+           courseTitle: "Statistics 224",
+           prerequisites: "Engineering Mathematics 215",
            NQFlevel: 5,
            NQFcredits: 12,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -216,9 +216,9 @@ year2 = {
 
         module2:{
            id: 2,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "",
+           courseCode: "MGY621S",
+           courseTitle: "Mining Geology 224",
+           prerequisites: "Geology for Engineers 214",
            NQFlevel: 5,
            NQFcredits: 12,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -226,9 +226,9 @@ year2 = {
 
         module3:{
            id: 3,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "None",
+           courseCode: "MSG621S",
+           courseTitle: "Mine Surveying 224",
+           prerequisites: "Engineering Surveying 214",
            NQFlevel: 5,
            NQFcredits: 9,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -236,9 +236,9 @@ year2 = {
 
         module4:{
            id: 4,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "",
+           courseCode: "TDN620S",
+           courseTitle: "Thermodynamics 225",
+           prerequisites: "Engineering Mathematics 115",
            NQFlevel: 5,
            NQFcredits: 12,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -246,9 +246,9 @@ year2 = {
 
         module5:{
            id: 5,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "None",
+           courseCode: "ORC711S",
+           courseTitle: "Operations Research 313",
+           prerequisites: "Statistics 224",
            NQFlevel: 5,
            NQFcredits: 12,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -256,9 +256,9 @@ year2 = {
 
         module6:{
            id: 6,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "",
+           courseCode: "RMC711S",
+           courseTitle: "Rock Mechanics 314",
+           prerequisites: "Soil Mechanics 224",
            NQFlevel: 5,
            NQFcredits: 12,
            departement: "MINING AND PROCESS ENGINEERING"
@@ -266,9 +266,9 @@ year2 = {
 
         module7:{
            id: 7,
-           courseCode: "",
-           courseTitle: "",
-           prerequisites: "None",
+           courseCode: "UDM711S",
+           courseTitle: "Underground Mining 315",
+           prerequisites: "Introduction to Mining and Metallurgy 214",
            NQFlevel: 4,
            NQFcredits: "NCB",
            departement: "MINING AND PROCESS ENGINEERING"
