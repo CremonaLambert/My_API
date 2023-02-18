@@ -274,60 +274,60 @@ year2 = {
    
             module1:{
                id: 1,
-               courseCode: "",
-               courseTitle: "",
-               prerequisites: "",
-               NQFlevel: 5,
-               NQFcredits: 12,
+               courseCode: "ORC711S",
+               courseTitle: "Operations Research 313",
+               prerequisites: "Statistics 224",
+               NQFlevel: 7,
+               NQFcredits: 9,
                departement: "MINING AND PROCESS ENGINEERING"
             },
    
            module2:{
               id: 2,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "None",
-              NQFlevel: 5,
-              NQFcredits: 14,
+              courseCode: "RMC711S",
+              courseTitle: "Rock Mechanics 314",
+              prerequisites: "Soil Mechanics 224",
+              NQFlevel: 7,
+              NQFcredits: 12,
               departement: "MINING AND PROCESS ENGINEERING"
            },
    
            module3:{
               id: 3,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "None",
-              NQFlevel: 5,
-              NQFcredits: 12,
+              courseCode: "UDM711S",
+              courseTitle: "Underground Mining 315",
+              prerequisites: "Introduction to Mining and Metallurgy 214",
+              NQFlevel: 7,
+              NQFcredits: 15,
               departement: "MINING AND PROCESS ENGINEERING"
            },
    
            module4:{
               id: 4,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "None",
-              NQFlevel: 5,
+              courseCode: "SUM710S",
+              courseTitle: "Surface Mining 315",
+              prerequisites: "Introduction to Mining and Metallurgy 214",
+              NQFlevel: 7,
               NQFcredits: 15,
               departement: "MINING AND PROCESS ENGINEERING"
            },
    
            module5:{
               id: 5,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "",
-              NQFlevel: 5,
-              NQFcredits: 15,
+              courseCode: "GSS711S",
+              courseTitle: "Geo Statistics 314",
+              prerequisites: "Mining Geology 224; Statistics 224",
+              NQFlevel: 7,
+              NQFcredits: 12,
               departement: "MINING AND PROCESS ENGINEERING"
            },
    
            module6:{
               id: 6,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "",
-              NQFlevel: 5,
+              courseCode: "MPC711S",
+              courseTitle: "Mineral Separation Processes 314",
+              prerequisites: "Introduction to Mining and Metallurgy 214",
+              NQFlevel: 7,
               NQFcredits: 12,
               departement: "MINING AND PROCESS ENGINEERING"
            },
@@ -338,64 +338,195 @@ year2 = {
    
             module6:{
                id: 1,
-               courseCode: "",
-               courseTitle: "",
-               prerequisites: "",
-               NQFlevel: 5,
+               courseCode: "MVT721S",
+               courseTitle: "Mine Ventilation 324",
+               prerequisites: "Fluid Mechanics 214; Thermodynamics 225",
+               NQFlevel: 7,
                NQFcredits: 12,
                departement: "MINING AND PROCESS ENGINEERING"
             },
    
             module5:{
                id: 2,
-               courseCode: "",
-               courseTitle: "",
-               prerequisites: "None",
-               NQFlevel: 6,
+               courseCode: "MHD721S",
+               courseTitle: "Materials Handling 324",
+               prerequisites: "Fluid Mechanics 214; Thermodynamics 225",
+               NQFlevel: 7,
                NQFcredits: 12,
                departement: "MINING AND PROCESS ENGINEERING"
             },
    
             module1:{
                id: 3,
-               courseCode: "",
-               courseTitle: "",
-               prerequisites: "",
-               NQFlevel: 5,
+               courseCode: "REE720S",
+               courseTitle: "Rock Engineering 324",
+               prerequisites: "Rock Mechanics 314",
+               NQFlevel: 7,
                NQFcredits: 12,
                departement: "MINING AND PROCESS ENGINEERING"
             },
    
            module2:{
               id: 4,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "",
-              NQFlevel: 5,
+              courseCode: "SDY611S",
+              courseTitle: "Sustainability and Development",
+              prerequisites: "None",
+              NQFlevel: 6,
               NQFcredits: 12,
               departement: "MINING AND PROCESS ENGINEERING"
            },
    
            module3:{
               id: 5,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "",
-              NQFlevel: 5,
-              NQFcredits: 9,
+              courseCode: "DBS721S",
+              courseTitle: "Drilling and Blasting 324",
+              prerequisites: "Introduction to Mining and Metallurgy 214",
+              NQFlevel: 7,
+              NQFcredits: 12,
               departement: "MINING AND PROCESS ENGINEERING"
            },
    
            module4:{
               id: 6,
-              courseCode: "",
-              courseTitle: "",
-              prerequisites: "",
-              NQFlevel: 6,
-              NQFcredits: 12,
+              courseCode: "MLL721S",
+              courseTitle: "Mine Laws and Licences 323",
+              prerequisites: "None",
+              NQFlevel: 7,
+              NQFcredits: 9,
               departement: "MINING AND PROCESS ENGINEERING"
            },
       },
+};
+
+
+year4 = {
+
+   semester1:{
+
+         module1:{
+            id: 1,
+            courseCode: "",
+            courseTitle: "",
+            prerequisites: "",
+            NQFlevel: 5,
+            NQFcredits: 12,
+            departement: "MINING AND PROCESS ENGINEERING"
+         },
+
+        module2:{
+           id: 2,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "None",
+           NQFlevel: 5,
+           NQFcredits: 14,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+        module3:{
+           id: 3,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "None",
+           NQFlevel: 5,
+           NQFcredits: 12,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+        module4:{
+           id: 4,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "None",
+           NQFlevel: 5,
+           NQFcredits: 15,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+        module5:{
+           id: 5,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "",
+           NQFlevel: 5,
+           NQFcredits: 15,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+        module6:{
+           id: 6,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "",
+           NQFlevel: 5,
+           NQFcredits: 12,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+   },
+
+   semester2:{
+
+         module6:{
+            id: 1,
+            courseCode: "",
+            courseTitle: "",
+            prerequisites: "",
+            NQFlevel: 5,
+            NQFcredits: 12,
+            departement: "MINING AND PROCESS ENGINEERING"
+         },
+
+         module5:{
+            id: 2,
+            courseCode: "",
+            courseTitle: "",
+            prerequisites: "None",
+            NQFlevel: 6,
+            NQFcredits: 12,
+            departement: "MINING AND PROCESS ENGINEERING"
+         },
+
+         module1:{
+            id: 3,
+            courseCode: "",
+            courseTitle: "",
+            prerequisites: "",
+            NQFlevel: 5,
+            NQFcredits: 12,
+            departement: "MINING AND PROCESS ENGINEERING"
+         },
+
+        module2:{
+           id: 4,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "",
+           NQFlevel: 5,
+           NQFcredits: 12,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+        module3:{
+           id: 5,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "",
+           NQFlevel: 5,
+           NQFcredits: 9,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+
+        module4:{
+           id: 6,
+           courseCode: "",
+           courseTitle: "",
+           prerequisites: "",
+           NQFlevel: 6,
+           NQFcredits: 12,
+           departement: "MINING AND PROCESS ENGINEERING"
+        },
+   },
 };
 
 console.log(year1);
